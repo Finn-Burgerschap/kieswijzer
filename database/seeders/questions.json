@@ -1,0 +1,194 @@
+{
+    "1": {
+        "title": "Inkomstenbelasting",
+        "description": "De inkomstenbelasting voor hoge inkomens moet verhoogd worden.",
+        "opinions": {
+            "1": "neutral",
+            "2": "agree",
+            "3": "disagree",
+            "4": "neutral",
+            "5": "agree",
+            "6": "disagree"
+        }
+    },
+    "2": {
+        "title": "Immigratiebeleid",
+        "description": "Het immigratiebeleid moet strenger worden.",
+        "opinions": {
+            "1": "agree",
+            "2": "disagree",
+            "3": "agree",
+            "4": "agree",
+            "5": "disagree",
+            "6": "neutral"
+        }
+    },
+    "3": {
+        "title": "Duurzame Energie",
+        "description": "De overheid moet meer investeren in duurzame energiebronnen.",
+        "opinions": {
+            "1": "disagree",
+            "2": "agree",
+            "3": "agree",
+            "4": "agree",
+            "5": "agree",
+            "6": "disagree"
+        }
+    },
+    "4": {
+        "title": "Minimumloon",
+        "description": "Het minimumloon moet verhoogd worden.",
+        "opinions": {
+            "1": "agree",
+            "2": "agree",
+            "3": "neutral",
+            "4": "agree",
+            "5": "agree",
+            "6": "neutral"
+        }
+    },
+    "5": {
+        "title": "Financiële Sector",
+        "description": "Er moeten strengere regels komen voor de financiële sector.",
+        "opinions": {
+            "1": "neutral",
+            "2": "agree",
+            "3": "neutral",
+            "4": "neutral",
+            "5": "neutral",
+            "6": "neutral"
+        }
+    },
+    "6": {
+        "title": "Gezondheidszorg",
+        "description": "De overheidsuitgaven voor gezondheidszorg moeten worden uitgebreid.",
+        "opinions": {
+            "1": "agree",
+            "2": "agree",
+            "3": "neutral",
+            "4": "agree",
+            "5": "agree",
+            "6": "agree"
+        }
+    },
+    "7": {
+        "title": "Publieke Diensten",
+        "description": "Publieke diensten zoals gezondheidszorg en onderwijs moeten geprivatiseerd worden.",
+        "opinions": {
+            "1": "disagree",
+            "2": "disagree",
+            "3": "neutral",
+            "4": "neutral",
+            "5": "disagree",
+            "6": "disagree"
+        }
+    },
+    "8": {
+        "title": "Defensie",
+        "description": "De defensie-uitgaven moeten worden verhoogd.",
+        "opinions": {
+            "1": "neutral",
+            "2": "neutral",
+            "3": "agree",
+            "4": "neutral",
+            "5": "neutral",
+            "6": "neutral"
+        }
+    },
+    "9": {
+        "title": "Economie",
+        "description": "De overheid moet de economie stimuleren door meer te investeren.",
+        "opinions": {
+            "1": "neutral",
+            "2": "agree",
+            "3": "agree",
+            "4": "agree",
+            "5": "agree",
+            "6": "agree"
+        }
+    },
+    "10": {
+        "title": "Klimaatverandering",
+        "description": "De overheid moet actief ingrijpen in de strijd tegen klimaatverandering.",
+        "opinions": {
+            "1": "disagree",
+            "2": "agree",
+            "3": "agree",
+            "4": "agree",
+            "5": "agree",
+            "6": "disagree"
+        }
+    },
+    "11": {
+        "title": "Europese Unie",
+        "description": "De rol van de EU in nationale aangelegenheden moet vergroot worden.",
+        "opinions": {
+            "1": "disagree",
+            "2": "agree",
+            "3": "neutral",
+            "4": "neutral",
+            "5": "agree",
+            "6": "neutral"
+        }
+    },
+    "12": {
+        "title": "Drugsbeleid",
+        "description": "Cannabis moet gelegaliseerd worden.",
+        "opinions": {
+            "1": "neutral",
+            "2": "agree",
+            "3": "neutral",
+            "4": "neutral",
+            "5": "neutral",
+            "6": "neutral"
+        }
+    },
+    "13": {
+        "title": "Sociale Zekerheid",
+        "description": "Sociale zekerheidsprogramma\"s moeten worden uitgebreid.",
+        "opinions": {
+            "1": "agree",
+            "2": "agree",
+            "3": "neutral",
+            "4": "agree",
+            "5": "agree",
+            "6": "neutral"
+        }
+    },
+    "14": {
+        "title": "Vluchtelingenbeleid",
+        "description": "Het beleid ten aanzien van vluchtelingen en asielzoekers moet versoepeld worden.",
+        "opinions": {
+            "1": "disagree",
+            "2": "agree",
+            "3": "neutral",
+            "4": "neutral",
+            "5": "agree",
+            "6": "neutral"
+        }
+    },
+    "15": {
+        "title": "Discriminatie",
+        "description": "Er moeten meer maatregelen komen ter bestrijding van discriminatie.",
+        "opinions": {
+            "1": "neutral",
+            "2": "agree",
+            "3": "agree",
+            "4": "neutral",
+            "5": "agree",
+            "6": "neutral"
+        }
+    },
+    "16": {
+        "title": "Infrastructuur",
+        "description": "Er moet meer geïnvesteerd worden in openbaar vervoer en infrastructuur.",
+        "opinions": {
+            "1": "neutral",
+            "2": "agree",
+            "3": "agree",
+            "4": "neutral",
+            "5": "agree",
+            "6": "neutral"
+        }
+    }
+}

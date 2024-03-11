@@ -1,0 +1,26 @@
+{
+    "1": {
+        "name": "PVV (Partij voor de Vrijheid)",
+        "slug": "PVV"
+    },
+    "2": {
+        "name": "GroenLinks-PvdA (GroenLinks en Partij van de Arbeid)",
+        "slug": "GroenLinks-PvdA"
+    },
+    "3": {
+        "name": "VVD (Volkspartij voor Vrijheid en Democratie)",
+        "slug": "VVD"
+    },
+    "4": {
+        "name": "NSC (Nieuw Sociaal Contract)",
+        "slug": "NSC"
+    },
+    "5": {
+        "name": "D66 (Democraten 66)",
+        "slug": "D66"
+    },
+    "6": {
+        "name": "BBB (BoerBurgerBeweging)",
+        "slug": "BBB"
+    }
+}
